@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahib</h1>
-<h3 align="center">Hello, I am Sahib Askerov. I work as a web developer. I also act as a mentor. I am confident, open to new suggestions</h3>
+<h3 align="center">Hello, I am Sahib Asgerov. I work as a web developer. I also act as a mentor. I am confident, open to new suggestions</h3>
 
 - 🔭 I’m currently working on **a small startup**
 
